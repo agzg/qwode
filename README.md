@@ -1,5 +1,4 @@
 # qwode
-**Collaboration notice:** Ali Azam, Promita Rahee Sikder
 
 Qwen 3-4B turned into a code-generating language model by solving a bunch of programming problems and optimizing a binary correctness signal (using an automated test execution) using GRPO-style reinforcement learning.
 
